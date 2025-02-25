@@ -48,7 +48,7 @@ function verificarChute() {
 }
 
 
-let botao = document.querySelector('.botao'); 
+let botao = document.querySelector('.container__botao'); 
 botao.addEventListener('click', verificarChute);
 
 
